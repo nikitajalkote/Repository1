@@ -1,0 +1,3 @@
+sample master file
+<<<<<<<<<<<< HEAD
+working on 2.txt
